@@ -5,4 +5,6 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 📫 How to reach me **alt.akgod7@gmail.com**
+- 📫 To reach me **follow my Github Page**
+
+-  🖥️ You can find all my projects **in my Github Repositories**
