@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @akgod-7
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Python
+- 📫 To reach me follow my Github
