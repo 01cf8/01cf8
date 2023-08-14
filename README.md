@@ -6,7 +6,3 @@
 - 🔭 I’m currently working on **My Portfolio**
 
 - 📫 How to reach me **alt.akgod7@gmail.com**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akgod-7&show_icons=true&locale=en" alt="akgod-7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akgod-7&" alt="akgod-7" /></p>
