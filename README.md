@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently **freelancing**
 
-- 📫 To reach me **follow my Github Page**
+- 📫 To reach me **email akshitdob14@gmail.com**
 
 -  🖥️ You can find all my projects **in my Github Repositories**
